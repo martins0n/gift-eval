@@ -249,3 +249,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 .vscode/launch.json
 
+
+myenv
+dataset
+data
